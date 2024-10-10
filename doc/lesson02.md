@@ -14,7 +14,7 @@ IDEA предложила рефакторинг `TimeUtil.isBetweenHalfOpen` с
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFXzByNVF3VV9zM1k">Отображения списка еды в JSP</a>
 #### Apply 2_1_HW1.patch
 
-> - Переименовал `TimeUtil` в `DateTimeUtil`
+> - Переименовал `TimeUtil` в `DateTimeUtil`. У нас потерялась прака `isBefore` предыдущего патча, не стал исправлять: на 3-м занятии будет рефакторинг, чтобы в этом методе одновременно обрабатывались `LocalTime` и `LocalDateTime` и уже не получиться использовать `isBefore`.
 > - Переименовал `mealList.jsp` в `meals.jsp`
 > - Изменения в `MealsUtil`:
 >    - Сделал константу `List<Meal> meals`. [Правило именования констант, которые не "deeply immutable"](https://google.github.io/styleguide/javaguide.html#s5.2.4-constant-names)
