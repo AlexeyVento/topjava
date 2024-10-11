@@ -164,7 +164,7 @@
 
 ### Optional
 #### 2. Реализуем в ПАМЯТИ (любая коллекция) CRUD (create/read/update/delete) для еды
-**Пример: [Simple CRUD using Servlet/JSP](https://web.archive.org/web/20230529120950/https://danielniko.dev/2012/04/17/simple-crud-using-jsp-servlet-and-mysql/)**
+**Пример: [Simple CRUD using Servlet/JSP](https://telegra.ph/Simple-CRUD-Using-Jsp-Servlet-10-08)**
 > - Пример нужно САМОСТОЯТЕЛЬНО переделать: вместо хранения в MySql нужно хранить в коллекции ПАМЯТИ (задание упрощается).
 > - Классы: сервлет, **интерфейс хранения**, его реализация для хранения в памяти
 - 2.1 Хранение в памяти будет одна из наших CRUD реализаций (позже будет JDBC, JPA и DATA-JPA).
