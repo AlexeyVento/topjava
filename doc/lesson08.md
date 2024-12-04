@@ -557,7 +557,7 @@ https://bs-uploads.toptal.io/blackfish-uploads/uploaded_file/file/412345/image-1
 
 ### Optional
 - 2: Перевести работу фильтра на AJAX.
-    - [Руководство по выбору между GET и POST](https://handynotes.ru/2009/08/get-versus-pos.html)
+    - [Руководство по выбору между GET и POST](https://dzen.ru/a/ZtmSyH2stmP4iGMX)
 - 3: Сделать кнопку сброса фильтра.
 - 4: Реализовать `enable/disable` юзера
     - 4.1 Через checkbox в `users.jsp` с сохранением в DB. Неактивных пользователей выделить css стилем. Проверьте, как у вас первоначально (или по F5) отображаются неактивные пользователи (если
