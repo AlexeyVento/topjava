@@ -455,7 +455,7 @@ Security-фильтров, и для базовой аутентификации
 
 - 4: Подключить datetime-picker к фильтрам и модальному окну добавления/редактирования еды
     - <a href="http://xdsoft.net/jqplugins/datetimepicker/">DateTimePicker jQuery plugin</a>
-    - [jQuery: конверторы](https://jquery-docs.ru/jQuery.ajax/#using-converters)
+    - [jQuery: конверторы](https://api.jquery.com/jQuery.ajax/#using-converters)
 
 - Попробуйте при запросах по REST оставить стандартный ISO формат (с разделителем `T`). То есть:
     - Отображение и редактирование еды на UI происходит без `T` (формат значений на UI можно увидеть во вкладке браузера Network)
