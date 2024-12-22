@@ -171,7 +171,7 @@
 - [Spring 3.1 новый механизм кеширования](https://russianblogs.com/article/75981527090/)
 - [Spring 4+ with Ehcache 3 – how to](https://imhoratiu.wordpress.com/2017/01/26/spring-4-with-ehcache-3-how-to/)
 - [Evict Ehcache elements programmatically, using Spring](https://stackoverflow.com/questions/29557959/evict-ehcache-elements-programmatically-using-spring)
-- Дополнительно: [Оптимизация запросов с использованием Spring cache и Bean scope](https://www.youtube.com/watch?v=P7nCQepVk_Y&list=PL6rimDLSyfe947bGsCviqIIYGofeFYQTM)
+- Дополнительно: [Оптимизация запросов с использованием Spring cache и Bean scope](https://habr.com/ru/companies/rosbank/articles/694768/)
 --------------------
 
 ## ![hw](https://cloud.githubusercontent.com/assets/13649199/13672719/09593080-e6e7-11e5-81d1-5cb629c438ca.png) Домашнее задание HW05
